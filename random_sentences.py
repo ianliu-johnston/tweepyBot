@@ -25,7 +25,7 @@ def get_json_parsed(word):
     # url2 = "http://api.wordnik.com:80/v4/words.json/wordOfTheDay?api_key=" + the_word
     with urlopen(url) as response:
         data = response.read().decode("utf-8")
-        parsed = json.loads(data)
+        parsed = loads(data)
     return(parsed)
 
 def random_sentence():
