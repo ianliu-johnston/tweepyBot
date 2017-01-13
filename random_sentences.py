@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import random
 from json import loads
-from tweepy_secrets import secret_keyword
+from misc_tokens import the_word
 from urllib.request import urlopen
 
 def open_files():
@@ -21,8 +21,8 @@ def open_files():
     return(chosen)
 
 def get_json_parsed(word):
-    url = "http://api.wordnik.com:80/v4/word.json/" + word + "/definitions?limit=1&includeRelated=true&useCanonical=false&includeTags=false&api_key=" + secret_keyword
-    # url2 = "http://api.wordnik.com:80/v4/words.json/wordOfTheDay?api_key=" + secret_keyword
+    url = "http://api.wordnik.com:80/v4/word.json/" + word + "/definitions?limit=1&includeRelated=true&useCanonical=false&includeTags=false&api_key=" + the_word
+    # url2 = "http://api.wordnik.com:80/v4/words.json/wordOfTheDay?api_key=" + the_word
     with urlopen(url) as response:
         data = response.read().decode("utf-8")
         parsed = json.loads(data)
