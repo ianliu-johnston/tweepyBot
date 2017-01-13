@@ -18,7 +18,6 @@ def get_json_parsed(word):
         data = response.read().decode("utf-8")
         parsed = json.loads(data)
     return(parsed)
-    return(word)
 
 def random_sentence():
     buf = ""
