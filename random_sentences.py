@@ -34,7 +34,6 @@ def random_sentence():
     if "http" not in word_or_web:
         buf = "Word Of The Day!\n"
         returned = get_json_parsed(word_or_web)
-        buf += returned
         buf += "{}: ".format(returned[0]['word'])
         buf += "{} -- ".format(returned[0]['partOfSpeech'])
         buf += "{}".format(returned[0]['text'])
