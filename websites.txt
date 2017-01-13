@@ -9,7 +9,7 @@ https://learning.linkedin.com/blog/managing-your-tech-team/the-6-questions-you-s
 http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
 https://youtu.be/tf7IEVTDjng
 https://youtu.be/oSFYwDDVgac
-Resource for Javascript! @rauschma @speakingjs #javascripthttp://speakingjs.com/
+Resource for Javascript! @rauschma @speakingjs #javascript http://speakingjs.com/
 http://www.2ality.com/2014/05/oop-layers.html
 Beautifully designed CSS tutorial @adamfschwartz http://adamschwartz.co/magic-of-css/
 One of my favorite web comics: @Bouletcorp http://english.bouletcorp.com/2015/08/26/brassens-in-space/
