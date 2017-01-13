@@ -28,3 +28,4 @@ What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&featur
 Anyone need to set up a server? https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04
 All about .htaccess files: http://www.askapache.com/htaccess/htaccess/
 Super speedy port scanner with IOT: http://www.askapache.com/hacking/internet-census-2012-port-scanning-using-insecure-embedded-devices-carna-botnet/
+Lol. #Shakespeare insult: Fusty nut with no kernel

@@ -4,8 +4,9 @@ import json
 from tweepy_secrets import secret_keyword
 from urllib.request import urlopen
 
-def two_dolla_words():
-    with open("two_dolla_words") as f:
+def open_files():
+    options = "two_dolla_words", "websites.txt"
+    with open(random.choice(options), 'r') as f:
         s = list(line for line in f.read().split('\n'))
     f.closed
     return(s)
@@ -17,11 +18,18 @@ def get_json_parsed(word):
         data = response.read().decode("utf-8")
         parsed = json.loads(data)
     return(parsed)
+    return(word)
 
 def random_sentence():
-    buf = "Word Of The Day!\n"
-    returned = get_json_parsed(random.choice(two_dolla_words()))
-    buf += "{}: ".format(returned[0]['word'])
-    buf += "{} -- ".format(returned[0]['partOfSpeech'])
-    buf += "{}".format(returned[0]['text'])
+    buf = ""
+    word_or_web = open_files()
+    if "http" not in word_or_web[0]:
+        buf = "Word Of The Day!\n"
+        returned = get_json_parsed(random.choice(word_or_web))
+        buf += returned
+        buf += "{}: ".format(returned[0]['word'])
+        buf += "{} -- ".format(returned[0]['partOfSpeech'])
+        buf += "{}".format(returned[0]['text'])
+    else:
+        buf += random.choice(word_or_web)
     return(buf[:140])
