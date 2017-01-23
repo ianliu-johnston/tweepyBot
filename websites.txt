@@ -1,33 +1,31 @@
-http://www.computerworld.com/article/2697039/unix-top-networking-commands-and-what-they-tell-you.html
-http://www.computerworld.com/article/2693602/operating-systems/unix---gaining-network-insights-with-tcpdump.html
-http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/the-root-directory.html
-http://www.cubrid.org/blog/dev-platform/understanding-tcp-ip-network-stack/
-http://www.geeksforgeeks.org/memory-layout-of-c-program/
-http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
-http://cdecl.org/
-https://learning.linkedin.com/blog/managing-your-tech-team/the-6-questions-you-should-ask-every-it-candidate?sf34597553=1#!
-http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
-https://youtu.be/tf7IEVTDjng
-https://youtu.be/oSFYwDDVgac
-Resource for Javascript! @rauschma @speakingjs #javascript http://speakingjs.com/
-http://www.2ality.com/2014/05/oop-layers.html
-Beautifully designed CSS tutorial @adamfschwartz http://adamschwartz.co/magic-of-css/
-One of my favorite web comics: @Bouletcorp http://english.bouletcorp.com/2015/08/26/brassens-in-space/
-One of my favorite art websites: http://www.yyyyyyy.info/
-Medijate Y0ur Mind: @LARRYCARLS0N http://www.larrycarlson.com/medijate/index2.htm
-Mind blowing experimental film by @LARRYCARLS0N https://youtu.be/K6-D-fjT2Z4
-Fascinating wind map http://hint.fm/wind/
-What!?! Where are all the DDOS's comming? oh, here's a map: http://www.digitalattackmap.com/
-Some amazing data visualization from the top people in the field: http://hint.fm
-Excellent blog on security: https://www.schneier.com/
-See: http://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html
-Free online html book about deep learning + neural networks: http://neuralnetworksanddeeplearning.com/index.html
-For a technical resource of deep learning: http://www.deeplearningbook.org/
-Tensor Flow neural network visualization: http://playground.tensorflow.org/
-What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
-Anyone need to set up a server? https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04
-All about .htaccess files: http://www.askapache.com/htaccess/htaccess/
-Super speedy port scanner with IOT: http://www.askapache.com/hacking/internet-census-2012-port-scanning-using-insecure-embedded-devices-carna-botnet/
-All about #AppArmor on #Ubuntu: https://ubuntuforums.org/showthread.php?t=1008906
-Setup #firewalls! https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
-https://goo.gl/uUHyk7
+ianbot: http://www.computerworld.com/article/2697039/unix-top-networking-commands-and-what-they-tell-you.html
+ianbot: http://www.computerworld.com/article/2693602/operating-systems/unix---gaining-network-insights-with-tcpdump.html
+ianbot: http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/the-root-directory.html
+ianbot: http://www.cubrid.org/blog/dev-platform/understanding-tcp-ip-network-stack/
+ianbot: http://www.geeksforgeeks.org/memory-layout-of-c-program/
+ianbot: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
+ianbot: http://cdecl.org/
+ianbot: https://learning.linkedin.com/blog/managing-your-tech-team/the-6-questions-you-should-ask-every-it-candidate?sf34597553=1#!
+ianbot: http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
+ianbot: https://youtu.be/tf7IEVTDjng
+ianbot: Resource for Javascript! @rauschma @speakingjs #javascript http://speakingjs.com/
+ianbot: http://www.2ality.com/2014/05/oop-layers.html
+ianbot: Beautifully designed CSS tutorial @adamfschwartz http://adamschwartz.co/magic-of-css/
+ianbot: One of my favorite web comics: @Bouletcorp http://english.bouletcorp.com/2015/08/26/brassens-in-space/
+ianbot: One of my favorite art websites: http://www.yyyyyyy.info/
+ianbot: Medijate Y0ur Mind: @LARRYCARLS0N http://www.larrycarlson.com/medijate/index2.htm
+ianbot: Mind blowing experimental film by @LARRYCARLS0N https://youtu.be/K6-D-fjT2Z4
+ianbot: Fascinating wind map http://hint.fm/wind/
+ianbot: What!?! Where are all the DDOS's comming? oh, here's a map: http://www.digitalattackmap.com/
+ianbot: Some amazing data visualization from the top people in the field: http://hint.fm
+ianbot: Excellent blog on security: https://www.schneier.com/
+ianbot: See: http://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html
+ianbot: Free online html book about deep learning + neural networks: http://neuralnetworksanddeeplearning.com/index.html
+ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
+ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
+ianbot: Super speedy port scanner with IOT: https://goo.gl/2n0Ahi
+ianbot: All about #AppArmor on #Ubuntu: https://ubuntuforums.org/showthread.php?t=1008906
+ianbot: Setup #firewalls! https://goo.gl/UsKq5B
+ianbot: What is a dangling pointer? https://en.wikipedia.org/wiki/Dangling_pointer#Security_holes_involving_dangling_pointers
+ianbot: Good intro to big O: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+ianbot: GNU/Linux on your smart watch: https://learntemail.sam.today/blog/my-watch-runs-gnu-linux-and-it-is-amazing/
