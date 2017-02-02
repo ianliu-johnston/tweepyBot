@@ -1,15 +1,10 @@
-ianbot: http://www.computerworld.com/article/2697039/unix-top-networking-commands-and-what-they-tell-you.html
-ianbot: http://www.computerworld.com/article/2693602/operating-systems/unix---gaining-network-insights-with-tcpdump.html
-ianbot: http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/the-root-directory.html
-ianbot: http://www.cubrid.org/blog/dev-platform/understanding-tcp-ip-network-stack/
-ianbot: http://www.geeksforgeeks.org/memory-layout-of-c-program/
-ianbot: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
-ianbot: http://cdecl.org/
+ianbot: tcpdump tool: http://www.computerworld.com/article/2693602/operating-systems/unix---gaining-network-insights-with-tcpdump.html
+ianbot: How are C programs layed out in memory? http://www.geeksforgeeks.org/memory-layout-of-c-program/
+ianbot: Stack vs. Heap: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 ianbot: https://learning.linkedin.com/blog/managing-your-tech-team/the-6-questions-you-should-ask-every-it-candidate?sf34597553=1#!
-ianbot: http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
-ianbot: https://youtu.be/tf7IEVTDjng
+ianbot: Software Engineering questions: http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
 ianbot: Resource for Javascript! @rauschma @speakingjs #javascript http://speakingjs.com/
-ianbot: http://www.2ality.com/2014/05/oop-layers.html
+ianbot: The 4 layers of Javascript OOP: http://www.2ality.com/2014/05/oop-layers.html
 ianbot: Beautifully designed CSS tutorial @adamfschwartz http://adamschwartz.co/magic-of-css/
 ianbot: One of my favorite web comics: @Bouletcorp http://english.bouletcorp.com/2015/08/26/brassens-in-space/
 ianbot: One of my favorite art websites: http://www.yyyyyyy.info/
@@ -24,8 +19,7 @@ ianbot: Free online html book about deep learning + neural networks: http://neur
 ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
 ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
 ianbot: Super speedy port scanner with IOT: https://goo.gl/2n0Ahi
-ianbot: All about #AppArmor on #Ubuntu: https://ubuntuforums.org/showthread.php?t=1008906
-ianbot: Setup #firewalls! https://goo.gl/UsKq5B
+ianbot: Setup #firewalls! https://goo.gl/UsKq5 B
 ianbot: What is a dangling pointer? https://en.wikipedia.org/wiki/Dangling_pointer#Security_holes_involving_dangling_pointers
 ianbot: Good intro to big O: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
-ianbot: GNU/Linux on your smart watch: https://learntemail.sam.today/blog/my-watch-runs-gnu-linux-and-it-is-amazing/
+ianbot: Write any javascript program with only 8 characters: #JSFuck @aemkei https://github.com/aemkei/jsfuck/blob/master/jsfuck.js
