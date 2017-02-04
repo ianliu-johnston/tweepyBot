@@ -23,3 +23,10 @@ ianbot: Setup #firewalls! https://goo.gl/UsKq5 B
 ianbot: What is a dangling pointer? https://en.wikipedia.org/wiki/Dangling_pointer#Security_holes_involving_dangling_pointers
 ianbot: Good intro to big O: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 ianbot: Write any javascript program with only 8 characters: #JSFuck @aemkei https://github.com/aemkei/jsfuck/blob/master/jsfuck.js
+ianbot: How does ssh work? https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
+ianbot: How to crawl around net with Python through Tor http://sacharya.com/crawling-anonymously-with-tor-in-python/
+ianbot: Need to automate Captcha solving? https://webscraping.com/blog/Solving-CAPTCHA/
+ianbot: This is how IP addresses are structured: https://goo.gl/DVxwfV
+ianbot: What is an API (in English please) @FreeCodeCamp https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82
+ianbot: You gotta be kiddin me: https://themerkle.com/nearly-200000-systems-are-still-vulnerable-to-heartbleed-exploits/
+ianbot: Ports and Sockets are different. https://www.quora.com/What-is-the-difference-between-port-and-socket-in-Internet-terminology

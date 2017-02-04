@@ -19,6 +19,7 @@ def random_picker(random_or_not):
             if len(lst) > 1:
                 choice = random.choice(range(len(lst)))
                 chosen = lst[choice]
+                print ("Random Choice: ", chosen)
                 del lst[choice]
                 with open(options[random_choice], 'w') as fw:
                     for i in lst:
@@ -53,7 +54,7 @@ def random_sentence():
     buf = ""
     word_or_web = random_picker(True)
     if word_or_web is None or len(word_or_web) < 1:
-        buf = "I'm out of tweets... #pythoniscool"
+        buf = "Oops, no more tweets... #cisfun"
     elif ' ' not in word_or_web:
         buf = "Word Of The Day!\n"
         returned = get_json_parsed(word_or_web)
@@ -67,3 +68,5 @@ def random_sentence():
         buf += (word_or_web)
     print(buf)
     return(buf[:140])
+
+random_sentence()
