@@ -26,11 +26,11 @@ def random_picker(random_or_not):
                         if len(i) > 1:
                             fw.write(i)
                             fw.write("\n")
-                fw.closed
+                fw.close()
             else:
                 print("File: {} is completely empty.".format(options[random_choice]))
                 return(None)
-        fr.closed
+        fr.close()
         return(chosen)
     except FileNotFoundError as no_files:
         print(no_files)
@@ -68,5 +68,3 @@ def random_sentence():
         buf += (word_or_web)
     print(buf)
     return(buf[:140])
-
-random_sentence()
