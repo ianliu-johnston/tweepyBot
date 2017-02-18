@@ -34,4 +34,3 @@ ianbot: Dijkstra's Algorithm - Shortest paths between nodes: https://en.wikipedi
 ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
 ianbot: Cool sed 1 liners: http://sed.sourceforge.net/sed1line.txt
 ianbot: Down with Ransomware: https://www.nomoreransom.org/
-ianbot: 
