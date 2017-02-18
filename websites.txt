@@ -1,11 +1,7 @@
-ianbot: tcpdump tool: http://www.computerworld.com/article/2693602/operating-systems/unix---gaining-network-insights-with-tcpdump.html
-ianbot: How are C programs layed out in memory? http://www.geeksforgeeks.org/memory-layout-of-c-program/
-ianbot: Stack vs. Heap: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 ianbot: https://learning.linkedin.com/blog/managing-your-tech-team/the-6-questions-you-should-ask-every-it-candidate?sf34597553=1#!
 ianbot: Software Engineering questions: http://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
 ianbot: Resource for Javascript! @rauschma @speakingjs #javascript http://speakingjs.com/
 ianbot: The 4 layers of Javascript OOP: http://www.2ality.com/2014/05/oop-layers.html
-ianbot: Beautifully designed CSS tutorial @adamfschwartz http://adamschwartz.co/magic-of-css/
 ianbot: One of my favorite web comics: @Bouletcorp http://english.bouletcorp.com/2015/08/26/brassens-in-space/
 ianbot: One of my favorite art websites: http://www.yyyyyyy.info/
 ianbot: Medijate Y0ur Mind: @LARRYCARLS0N http://www.larrycarlson.com/medijate/index2.htm
@@ -13,20 +9,29 @@ ianbot: Mind blowing experimental film by @LARRYCARLS0N https://youtu.be/K6-D-fj
 ianbot: Fascinating wind map http://hint.fm/wind/
 ianbot: What!?! Where are all the DDOS's comming? oh, here's a map: http://www.digitalattackmap.com/
 ianbot: Some amazing data visualization from the top people in the field: http://hint.fm
-ianbot: Excellent blog on security: https://www.schneier.com/
 ianbot: See: http://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html
 ianbot: Free online html book about deep learning + neural networks: http://neuralnetworksanddeeplearning.com/index.html
 ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
 ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
-ianbot: Super speedy port scanner with IOT: https://goo.gl/2n0Ahi
 ianbot: Setup #firewalls! https://goo.gl/UsKq5 B
 ianbot: What is a dangling pointer? https://en.wikipedia.org/wiki/Dangling_pointer#Security_holes_involving_dangling_pointers
 ianbot: Good intro to big O: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 ianbot: Write any javascript program with only 8 characters: #JSFuck @aemkei https://github.com/aemkei/jsfuck/blob/master/jsfuck.js
 ianbot: How does ssh work? https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
-ianbot: How to crawl around net with Python through Tor http://sacharya.com/crawling-anonymously-with-tor-in-python/
 ianbot: Need to automate Captcha solving? https://webscraping.com/blog/Solving-CAPTCHA/
 ianbot: This is how IP addresses are structured: https://goo.gl/DVxwfV
 ianbot: What is an API (in English please) @FreeCodeCamp https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82
 ianbot: You gotta be kiddin me: https://themerkle.com/nearly-200000-systems-are-still-vulnerable-to-heartbleed-exploits/
-ianbot: Ports and Sockets are different. https://www.quora.com/What-is-the-difference-between-port-and-socket-in-Internet-terminology
+ianbot: What's the malware threat status on the internet today? http://dshield.org/threatfeed.html
+ianbot: Have an itch that only solving a crack me can fix? https://reverse.put.as/crackmes/
+ianbot: Big list of naughty strings: https://raw.githubusercontent.com/minimaxir/big-list-of-naughty-strings/master/blns.txt
+ianbot: Trinity uses nmap. https://highon.coffee/blog/nmap-cheat-sheet/
+ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
+ianbot: Anomyous Hacker Takes Down Over 10,000 Dark Web Sites @TheHackersNews http://thehackernews.com/2017/02/dark-web-hosting-hacked.html
+ianbot: Understand the stack with GDB: http://www.dirac.org/linux/gdb/02a-Memory_Layout_And_The_Stack.php
+ianbot: Simple Buffer Overflow tutorial: http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
+ianbot: Dijkstra's Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
+ianbot: Cool sed 1 liners: http://sed.sourceforge.net/sed1line.txt
+ianbot: Down with Ransomware: https://www.nomoreransom.org/
+ianbot: 
