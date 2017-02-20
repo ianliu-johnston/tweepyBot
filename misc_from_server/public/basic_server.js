@@ -88,6 +88,6 @@ http.createServer(function (request, response) {
 				})
 			}
 	}
-}).listen(40298, '138.197.205.87');
+}).listen(8080, '172.31.19.207');
 console.log("Server is now running");
 process.on('uncaughtException', function(err){ console.log(err);})
