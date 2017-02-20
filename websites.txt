@@ -25,10 +25,8 @@ ianbot: You gotta be kiddin me: https://themerkle.com/nearly-200000-systems-are-
 ianbot: What's the malware threat status on the internet today? http://dshield.org/threatfeed.html
 ianbot: Have an itch that only solving a crack me can fix? https://reverse.put.as/crackmes/
 ianbot: Big list of naughty strings: https://raw.githubusercontent.com/minimaxir/big-list-of-naughty-strings/master/blns.txt
-ianbot: Trinity uses nmap. https://highon.coffee/blog/nmap-cheat-sheet/
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
 ianbot: Anomyous Hacker Takes Down Over 10,000 Dark Web Sites @TheHackersNews http://thehackernews.com/2017/02/dark-web-hosting-hacked.html
-ianbot: Understand the stack with GDB: http://www.dirac.org/linux/gdb/02a-Memory_Layout_And_The_Stack.php
 ianbot: Simple Buffer Overflow tutorial: http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
 ianbot: Dijkstra's Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm

@@ -1,0 +1,33 @@
+
+Server is now running
+---BEGIN---
+	Mon Feb 20 2017 13:44:08 GMT+0000 (UTC)
+	New Connection 50.240.196.185 -> 138.68.239.188:8080
+	User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/55.0.2883.87 Chrome/55.0.2883.87 Safari/537.36
+	Requested Resource: /auth/sign_in
+	Request Method: GET
+	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+	Content Type: undefined
+	Content Length: undefined
+---BEGIN---
+	Mon Feb 20 2017 13:44:14 GMT+0000 (UTC)
+	New Connection 50.240.196.185 -> 138.68.239.188:8080
+	User Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/55.0.2883.87 Chrome/55.0.2883.87 Safari/537.36
+	Requested Resource: /auth/sign_in
+	Request Method: POST
+	Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+	Content Type: application/x-www-form-urlencoded
+	Content Length: 105
+	Request Body:
+user%5Blogin%5D=HAHAHA&user%5Bpassword%5D=lkjaskdlfjalskdjfasdfasdf&user%5Bremember_me%5D=0&commit=Log+in
+Server is now running
+---BEGIN---
+	Mon Feb 20 2017 14:17:33 GMT+0000 (UTC)
+	New Connection 54.165.241.61 -> 138.68.239.188:8080
+	User Agent: Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+	Requested Resource: /auth/sign_in
+	Request Method: GET
+	Accept: */*
+	Content Type: undefined
+	Content Length: undefined
+Server is now running
