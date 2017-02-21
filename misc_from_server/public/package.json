@@ -1,0 +1,24 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "description": "POC",
+  "main": "basic_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianliu-johnston/tweepyBot/tree/master/misc_from_server/public"
+  },
+  "keywords": [
+    "basic",
+    "node",
+    "server"
+  ],
+  "author": "Concati",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.1",
+    "express-favicon": "~2.0.0"
+  }
+}

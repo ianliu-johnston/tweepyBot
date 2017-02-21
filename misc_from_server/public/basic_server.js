@@ -2,7 +2,11 @@
 var http = require("http")
 	url = require("url")
 	fs = require("fs");
+const express = require('express');
+const favicon = require('express-favicon');
+const app = express();
 
+app.use(favicon(__dirname + "/favicon.ico"));
 function get_info(request, response)
 {
 	var getpath = url.parse(request.url).pathname;
@@ -18,7 +22,6 @@ function get_info(request, response)
 	console.log("\tContent Length: " + request.headers['content-length']);
 }
 /*
-	response.setHeader('Host', "intranet.hbtn.io");
 	response.setHeader('Content-Encoding', "gzip");
 	response.setHeader('Content-Type', "text/html; charset=utf-8");
 	response.setHeader('Cache-Control', "max-age=0, private, must-revalidate");
@@ -30,6 +33,7 @@ http.createServer(function (request, response) {
 	var getpath = url.parse(request.url).pathname;
 	var full_path = __dirname + getpath;
 	var requestBody = '';
+	response.setHeader('Host', "intranet.hbtn.io");
 	response.setHeader('Server', "nginx/1.8.0");
 	response.setHeader('Connection', "keep-alive");
 	if (request.method === "POST")
