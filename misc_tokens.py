@@ -1,5 +1,0 @@
-ck = 'wDJ32pc0dVOjg7wuwnmpaJoBc'
-cs = 'LadOYyL4qt1xmILh0U7CBj1MZF75MKv0AbqO0iGN80ie0K56v2'
-atok = '719612932854837248-1dn41DqjqRITWzREqJrwyQVFP56YwPZ'
-atoks = '1ZEZnMO6vL2QbvCDXK7LewxLhh97zagOnkmOs3fu2ewQp'
-the_word = 'b4a0d157190d44fe090020d2ac101be58c207a681a57508db'
