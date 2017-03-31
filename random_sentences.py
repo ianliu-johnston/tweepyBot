@@ -4,6 +4,7 @@ from datetime import date
 from json import loads
 from misc_tokens import the_word
 from urllib.request import urlopen
+from word_soup import wordsoup
 
 def random_picker(random_or_not):
     options = "two_dolla_words", "websites.txt"
@@ -54,7 +55,9 @@ def random_sentence():
     buf = ""
     word_or_web = random_picker(True)
     if word_or_web is None or len(word_or_web) < 1:
-        buf = "Oops, no more tweets... #cisfun"
+        buf = "ianbot: Oops, no more tweets. I better make something up: "
+        buf += wordsoup()
+        buf += "#ai"
     elif ' ' not in word_or_web:
         buf = "Word Of The Day!\n"
         returned = get_json_parsed(word_or_web)
