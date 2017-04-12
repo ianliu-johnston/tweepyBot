@@ -1,6 +1,3 @@
-ianbot: https://learning.linkedin.com/blog/managing-your-tech-team/the-6-questions-you-should-ask-every-it-candidate?sf34597553=1#!
-ianbot: One of my favorite art websites: http://www.yyyyyyy.info/
-ianbot: Medijate Y0ur Mind: @LARRYCARLS0N http://www.larrycarlson.com/medijate/index2.htm
 ianbot: Mind blowing experimental film by @LARRYCARLS0N https://youtu.be/K6-D-fjT2Z4
 ianbot: Fascinating wind map http://hint.fm/wind/
 ianbot: What!?! Where are all the DDOS's comming? oh, here's a map: http://www.digitalattackmap.com/
@@ -8,13 +5,8 @@ ianbot: See: http://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-
 ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
 ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
 ianbot: What is a dangling pointer? https://en.wikipedia.org/wiki/Dangling_pointer#Security_holes_involving_dangling_pointers
-ianbot: Good intro to big O: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
-ianbot: How does ssh work? https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
 ianbot: What's the malware threat status on the internet today? http://dshield.org/threatfeed.html
-ianbot: Have an itch that only solving a crack me can fix? https://reverse.put.as/crackmes/
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
-ianbot: Dijkstra's Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
-ianbot: Down with Ransomware: https://www.nomoreransom.org/
 ianbot: Turns out that setting up an SSH proxy through a VPN is pretty easy, https://www.ocf.berkeley.edu/~xuanluo/sshproxywin.html
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
