@@ -1,0 +1,14 @@
+data
+__init__.py
+log
+misc_tokens.py
+__pycache__
+random_sentences.py
+README.md
+run_bot.sh
+sat_words
+test_json.py
+tweepy_bot.py
+two_dolla_words
+websites.txt
+word_soup.py
