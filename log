@@ -398,3 +398,7 @@ Random Choice:  conflagration
 Word Of The Day!
 conflagration: noun -- A large destructive fire.
 Wed Apr 12 22:44:59 UTC 2017
+Traceback (most recent call last):
+  File "/home/concati/tweepyBot/tweepy_bot.py", line 41, in <module>
+    api.update_status(random_sentence())
+NameError: name 'random_sentence' is not defined
