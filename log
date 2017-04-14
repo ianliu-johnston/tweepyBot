@@ -402,3 +402,8 @@ Traceback (most recent call last):
   File "/home/concati/tweepyBot/tweepy_bot.py", line 41, in <module>
     api.update_status(random_sentence())
 NameError: name 'random_sentence' is not defined
+----------- 2017-04-14 ------------
+Random Choice:  explicate
+Word Of The Day!
+explicate: verb-transitive -- To make clear the meaning of; explain. See Synonyms at explain.
+Fri Apr 14 17:40:02 UTC 2017
