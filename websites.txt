@@ -15,3 +15,4 @@ ianbot: Download an entire website with #wget: wget -r -nc <website>.com
 ianbot: Free website to portscan with, not as great as nmap, but anonymous and accessible through TOR, http://mxtoolbox.com/PortScan.aspx
 ianbot: Finaly migrated my wordpres site to Flask w/good logs: domain name is still accessed by #wordpress login bots https://goo.gl/YhSeDR
 ianbot: Apache #Struts is super #vulnerable right now. I get a bunch of drive by #exploit attempts from my logs. https://goo.gl/Msvb40
+ianbot: Competitive Programmer's Handbook: https://cses.fi/book.pdf
