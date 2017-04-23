@@ -8,7 +8,6 @@ ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipe
 ianbot: Turns out that setting up an SSH proxy through a VPN is pretty easy, https://www.ocf.berkeley.edu/~xuanluo/sshproxywin.html
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
 ianbot: Mine twitter data with python: https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
-ianbot: Just tried a #javascript framework, #Phantomjs. Super cool to take screenshots of a webpage. http://phantomjs.org/quick-start.html
 ianbot: Download an entire website with #wget: wget -r -nc <website>.com
 ianbot: Free website to portscan with, not as great as nmap, but anonymous and accessible through TOR, http://mxtoolbox.com/PortScan.aspx
 ianbot: Finaly migrated my wordpres site to Flask w/good logs: domain name is still accessed by #wordpress login bots https://goo.gl/YhSeDR
