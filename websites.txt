@@ -1,4 +1,3 @@
-ianbot: Mind blowing experimental film by @LARRYCARLS0N https://youtu.be/K6-D-fjT2Z4
 ianbot: See: http://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html
 ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
 ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
@@ -10,6 +9,9 @@ ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
 ianbot: Mine twitter data with python: https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
 ianbot: Download an entire website with #wget: wget -r -nc <website>.com
 ianbot: Free website to portscan with, not as great as nmap, but anonymous and accessible through TOR, http://mxtoolbox.com/PortScan.aspx
-ianbot: Finaly migrated my wordpres site to Flask w/good logs: domain name is still accessed by #wordpress login bots https://goo.gl/YhSeDR
-ianbot: Apache #Struts is super #vulnerable right now. I get a bunch of drive by #exploit attempts from my logs. https://goo.gl/Msvb40
+ianbot: When #wordpress bots attack https://isc.sans.edu/forums/diary/WordPress+brute+force+attack+via+wpgetUsersBlogs/18427/
+ianbot: Apache #Struts is super #vulnerable right now. https://www.infosecurity-magazine.com/news/apache-struts-thousands-of-web/
 ianbot: Competitive Programmer's Handbook: https://cses.fi/book.pdf
+ianbot: WhatHappensWhenUSendAZeroDayToABank? @hndigest https://privacylog.blogspot.com/2017/04/what-happens-when-you-send-zero-day-to.html
+ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port via hndigest.com
+ianbot: "There's a demon in the internet." (It's Moloch, the Corruptor) -Rupert Giles, Buffy Season 1, ep.8 #BuffyTheVampireSlayer
