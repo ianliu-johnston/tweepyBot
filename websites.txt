@@ -4,7 +4,6 @@ ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2
 ianbot: What is a dangling pointer? https://en.wikipedia.org/wiki/Dangling_pointer#Security_holes_involving_dangling_pointers
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
 ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
-ianbot: Turns out that setting up an SSH proxy through a VPN is pretty easy, https://www.ocf.berkeley.edu/~xuanluo/sshproxywin.html
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
 ianbot: Mine twitter data with python: https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
 ianbot: Download an entire website with #wget: wget -r -nc <website>.com
