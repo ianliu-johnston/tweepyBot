@@ -27,7 +27,6 @@ def random_picker(random_or_not):
                         if len(i) > 1:
                             fw.write(i)
                             fw.write("\n")
-                fw.close()
             else:
                 print("File: {} is completely empty.".format(options[random_choice]))
                 return(None)
@@ -61,13 +60,33 @@ def random_sentence():
     elif ' ' not in word_or_web:
         buf = "Word Of The Day!\n"
         returned = get_json_parsed(word_or_web)
+        word_of_the_day = returned[0].get('word')
+        part_of_speech = returned[0].get('partOfSpeech')
         if returned != -1:
-            buf += "{}: ".format(returned[0]['word'])
-            buf += "{} -- ".format(returned[0]['partOfSpeech'])
+            buf += "{}: ".format(word_of_the_day)
+            buf += "{} -- ".format(part_of_speech)
             buf += "{}".format(returned[0]['text'])
+            if part_of_speech == 'adjective':
+                with open('data/Adjectives.txt') as word:
+                    print(word_of_the_day.strip())
+                    word.write(word_of_the_day.strip())
+            else if part_of_speech[0:4] == 'verb':
+                with open('data/Past_Verbs.txt') as word:
+                    write_this = word_of_the_day.strip()
+                    if write_this[len(write_this)-1] == "e":
+                        write_this += 'd'
+                    else:
+                        write_this += 'ed'
+                    word.write(write_this)
+            else if part_of_speech[0:4] == 'noun':
+                with open('data/Nouns.txt') as word:
+                    word.write(word_of_the_day.strip())
         else:
             buf = random_picker(-1)
     else:
         buf += (word_or_web)
     print(buf)
     return(buf[:140])
+
+if __name__ == "__main__":
+    print(random_sentence())
