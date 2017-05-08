@@ -528,3 +528,11 @@ Traceback (most recent call last):
     else if part_of_speech[0:4] == 'verb':
           ^
 SyntaxError: invalid syntax
+----------- 2017-05-08 ------------
+Random Choice:  discountenance
+Traceback (most recent call last):
+  File "/home/concati/tweepyBot/tweepy_bot.py", line 41, in <module>
+    api.update_status(random_sentence())
+  File "/home/concati/tweepyBot/random_sentences.py", line 80, in random_sentence
+    word.write(write_this)
+io.UnsupportedOperation: not writable
