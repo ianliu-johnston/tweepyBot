@@ -7,7 +7,6 @@ ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipe
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
 ianbot: Mine twitter data with python: https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
 ianbot: Free website to portscan with, not as great as nmap, but anonymous and accessible through TOR, http://mxtoolbox.com/PortScan.aspx
-ianbot: When #wordpress bots attack https://isc.sans.edu/forums/diary/WordPress+brute+force+attack+via+wpgetUsersBlogs/18427/
 ianbot: Apache #Struts is super #vulnerable right now. https://www.infosecurity-magazine.com/news/apache-struts-thousands-of-web/
 ianbot: Competitive Programmer's Handbook: https://cses.fi/book.pdf
 ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port via hndigest.com
