@@ -6,29 +6,32 @@ import tweepy
 from tweepy_bot import authenticate
 
 
-    """
 def get_lists(which="followers"):
     returns a list of followers or following
     import json
     api = authenticate()
     names = []
+    black_list = []
+    white_list = []
+
     if which == "followers":
         cursor = tweepy.Cursor(api.followers).items()
-        black_list = []
-    with open('black_list', 'r') as bl:
-        for line in bl:
-            black_list.append(line.strip())
+        with open('black_list', 'r') as bl:
+            for line in bl:
+                black_list.append(line.strip())
     elif which == "following":
         cursor = tweepy.Cursor(api.friends).items()
-        white_list = []
         with open('white_list', 'r') as bl:
             for line in bl:
                 white_list.append(line.strip())
+
     for user in cursor:
         if user.following == False and user.screen_name not in black_list:
             api.create_friendship(user.screen_name)
+    for user in cursor:
     return(names)
 
+"""
 ###################
     #Write cursor object to file
     for user in cursor:

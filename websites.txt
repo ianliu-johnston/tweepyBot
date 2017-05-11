@@ -10,3 +10,5 @@ ianbot: Apache #Struts is super #vulnerable right now. https://www.infosecurity-
 ianbot: Competitive Programmer's Handbook: https://cses.fi/book.pdf
 ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port via hndigest.com
 ianbot: Malware warning for Handbrake!! https://forum.handbrake.fr/viewtopic.php?f=33&t=36364
+ianbot: Oh cool! Spam archives from 1998-2017! #cybersecurity http://untroubled.org/spam/
+ianbot: There's a zoo in this repository, a huge collection of live malwares: #cybersecurity https://github.com/ytisf/theZoo

@@ -67,20 +67,19 @@ def random_sentence():
             buf += "{} -- ".format(part_of_speech)
             buf += "{}".format(returned[0]['text'])
             if part_of_speech == 'adjective':
-                with open('data/Adjectives.txt') as word:
-                    print(word_of_the_day.strip())
-                    word.write(word_of_the_day.strip())
-            else if part_of_speech[0:4] == 'verb':
-                with open('data/Past_Verbs.txt') as word:
+                with open('data/Adjectives.txt', 'a') as word:
+                    word.write('\n' + word_of_the_day.strip())
+            elif part_of_speech[0:4] == 'verb':
+                with open('data/Past_Verbs.txt', 'a') as word:
                     write_this = word_of_the_day.strip()
                     if write_this[len(write_this)-1] == "e":
                         write_this += 'd'
                     else:
                         write_this += 'ed'
-                    word.write(write_this)
-            else if part_of_speech[0:4] == 'noun':
-                with open('data/Nouns.txt') as word:
-                    word.write(word_of_the_day.strip())
+                    word.write('\n' + write_this)
+            elif part_of_speech[0:4] == 'noun':
+                with open('data/Nouns.txt', 'a') as word:
+                    word.write('\n' + word_of_the_day.strip())
         else:
             buf = random_picker(-1)
     else:
