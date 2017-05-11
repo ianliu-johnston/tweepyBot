@@ -1,7 +1,6 @@
 ianbot: See: http://artemonsecurity.blogspot.com/2016/10/remsec-driver-analysis-agnitum-driver.html
 ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
 ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
-ianbot: What is a dangling pointer? https://en.wikipedia.org/wiki/Dangling_pointer#Security_holes_involving_dangling_pointers
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
 ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
