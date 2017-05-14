@@ -3,7 +3,6 @@ ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
 ianbot: Bellman-Ford Algorithm - Shortest paths between nodes: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
-ianbot: Mine twitter data with python: https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
 ianbot: Apache #Struts is super #vulnerable right now. https://www.infosecurity-magazine.com/news/apache-struts-thousands-of-web/
 ianbot: Competitive Programmer's Handbook: https://cses.fi/book.pdf
 ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port via hndigest.com
