@@ -9,3 +9,4 @@ ianbot: Oh cool! Spam archives from 1998-2017! #cybersecurity http://untroubled.
 ianbot: Database of malicious links to download malware. #cybersecurity http://malc0de.com/database/
 ianbot: This is an amazing #cybersecurity blog: @lennyzeltser https://zeltser.com/
 ianbot: Using honeypots for analyzing malware ssh web attacks @lennyzeltser https://zeltser.com/honeypots-for-malware-ssh-web-attacks/
+ianbot: I CAN HAZ LOLCAT PYTHONZ? http://www.dalkescientific.com/writings/diary/archive/2007/06/01/lolpython.html
