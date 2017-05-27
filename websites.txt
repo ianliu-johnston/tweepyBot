@@ -1,5 +1,4 @@
 ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
-ianbot: What is a DDOS? Google knows. https://www.youtube.com/watch?v=NogCN78XN2w&feature=youtu.be
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
 ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port via hndigest.com
