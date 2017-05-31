@@ -1,9 +1,8 @@
-ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/
-ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE
+ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/ #ai #deeplearning
+ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE #cybersecurity
 ianbot: So, this is cool #Monero #cryptocurrency https://getmonero.org/home
-ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port via hndigest.com
+ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port @HNdigest 
 ianbot: Oh cool! Spam archives from 1998-2017! #cybersecurity http://untroubled.org/spam/
-ianbot: This is an amazing #cybersecurity blog: @lennyzeltser https://zeltser.com/
 ianbot: I CAN HAZ LOLCAT PYTHONZ? http://www.dalkescientific.com/writings/diary/archive/2007/06/01/lolpython.html
 ianbot: Playing with ptrace: http://www.linuxjournal.com/article/6100
 ianbot: Lots of good statistics on #WannaCry https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168
@@ -12,3 +11,4 @@ ianbot: Awesome resource to check regular expressions in #Python Thanks, @winter
 ianbot: Hacking a cheap IP camera http://marcusjenkins.com/hacking-cheap-ebay-ip-camera/
 ianbot: Supercool submarine cable map @cyrjulien http://www.submarinecablemap.com/
 ianbot: See all the internet websites pop up, one by one (by one... by one... by one...) http://www.internetlivestats.com/watch/websites/
+ianbot: What is the 12 factor app methodology? #SRE #12factor https://12factor.net/
