@@ -8,7 +8,6 @@ ianbot: Playing with ptrace: http://www.linuxjournal.com/article/6100
 ianbot: Lots of good statistics on #WannaCry https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168
 ianbot: Learn about regular expressions #regex @regexone https://regexone.com/
 ianbot: Awesome resource to check regular expressions in #Python Thanks, @wintermanc3r http://pythex.org/
-ianbot: Hacking a cheap IP camera http://marcusjenkins.com/hacking-cheap-ebay-ip-camera/
 ianbot: Supercool submarine cable map @cyrjulien http://www.submarinecablemap.com/
 ianbot: See all the internet websites pop up, one by one (by one... by one... by one...) http://www.internetlivestats.com/watch/websites/
 ianbot: What is the 12 factor app methodology? #SRE #12factor https://12factor.net/
