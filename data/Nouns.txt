@@ -32,3 +32,4 @@ anathema
 cupidity
 desistance
 drachma
+harangue
