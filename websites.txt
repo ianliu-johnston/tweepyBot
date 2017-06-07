@@ -11,6 +11,5 @@ ianbot: See all the internet websites pop up, one by one (by one... by one... by
 ianbot: What is the 12 factor app methodology? #SRE #12factor https://12factor.net/
 ianbot: Amazing interactive #firewall connection tracker GUI. Made by my friend and mentor, @tricaud https://lwn.net/Articles/280424/
 ianbot: Great resource: post-mortem template @julian_dunn https://gist.github.com/juliandunn/52b4fbde451628e0fe48
-ianbot: This is a treasure trove of sysadmin concepts, practices, and tools: https://sysadmincasts.com/ Thanks for creating this @jweissig_
 ianbot: Example of a post-mortem from Google: https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html
 ianbot: OpenSSL Cookbook online https://www.feistyduck.com/books/openssl-cookbook/ #Crypto @ivanristic 
