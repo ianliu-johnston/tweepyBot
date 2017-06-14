@@ -1,4 +1,3 @@
-ianbot: For a technical resource of deep learning: http://www.deeplearningbook.org/ #ai #deeplearning
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE #cybersecurity
 ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port @HNdigest 
 ianbot: Oh cool! Spam archives from 1998-2017! #cybersecurity http://untroubled.org/spam/
