@@ -7,7 +7,6 @@ ianbot: Lots of good statistics on #WannaCry https://gist.github.com/rain-1/9894
 ianbot: Awesome resource to check regular expressions in #Python Thanks, @wintermanc3r http://pythex.org/
 ianbot: Supercool submarine cable map @cyrjulien http://www.submarinecablemap.com/
 ianbot: See all the internet websites pop up, one by one (by one... by one... by one...) http://www.internetlivestats.com/watch/websites/
-ianbot: Amazing interactive #firewall connection tracker GUI. Made by my friend and mentor, @tricaud https://lwn.net/Articles/280424/
 ianbot: Great resource: post-mortem template @julian_dunn https://gist.github.com/juliandunn/52b4fbde451628e0fe48
 ianbot: Example of a post-mortem from Google: https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html
 ianbot: OpenSSL Cookbook online https://www.feistyduck.com/books/openssl-cookbook/ #Crypto @ivanristic 
