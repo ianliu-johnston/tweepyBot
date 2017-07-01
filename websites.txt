@@ -1,5 +1,4 @@
 ianbot: Arp poisoning attack and mitigration techniques @cisco http://bit.ly/1i27GKE #cybersecurity
-ianbot: How SSH got port number 22 https://www.ssh.com/ssh/port @HNdigest 
 ianbot: I CAN HAZ LOLCAT PYTHONZ? http://www.dalkescientific.com/writings/diary/archive/2007/06/01/lolpython.html
 ianbot: Supercool submarine cable map @cyrjulien http://www.submarinecablemap.com/
 ianbot: Great resource: post-mortem template @julian_dunn https://gist.github.com/juliandunn/52b4fbde451628e0fe48
