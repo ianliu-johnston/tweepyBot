@@ -36,3 +36,4 @@ harangue
 dragnet
 codicil
 diminution
+monomania
