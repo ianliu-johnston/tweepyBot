@@ -37,3 +37,4 @@ dragnet
 codicil
 diminution
 monomania
+foppery
