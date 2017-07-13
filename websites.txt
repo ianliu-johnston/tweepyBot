@@ -1,3 +1,2 @@
 ianbot: I CAN HAZ LOLCAT PYTHONZ? http://www.dalkescientific.com/writings/diary/archive/2007/06/01/lolpython.html
-ianbot: Supercool submarine cable map @cyrjulien http://www.submarinecablemap.com/
 ianbot: Example of a post-mortem from Google: https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html
