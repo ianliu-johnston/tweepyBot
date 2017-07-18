@@ -40,3 +40,4 @@ monomania
 foppery
 dishabille
 garrote
+animadversion
