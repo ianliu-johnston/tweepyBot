@@ -1,2 +1,24 @@
 ianbot: I CAN HAZ LOLCAT PYTHONZ? http://www.dalkescientific.com/writings/diary/archive/2007/06/01/lolpython.html
 ianbot: Example of a post-mortem from Google: https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html
+ianbot: Heap of #asm resources for learning! http://asm.sourceforge.net/resources.html
+ianbot: Difference between Intel and AT&T #asm syntax: http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm
+ianbot: You're dangerously bad @ #cryptography https://www.happybearsoftware.com/you-are-dangerously-bad-at-cryptography.html @happybearsoft
+ianbot: Solve #crypto challenges with https://cryptopals.com
+ianbot: Python, Pandas, and SQLite databases, Oh My! https://www.dataquest.io/blog/python-pandas-databases/
+ianbot: Quick Guide to GDB: https://beej.us/guide/bggdb/
+ianbot: Did you know GDB has a Text User Interface? https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_19.html
+ianbot: Podcasts for #sysadmin @Practical_SA https://thepracticalsysadmin.com/podcasts-for-system-administrators/
+ianbot: Smashing Security! #podcast #cybersecurity @smashinsecurity http://www.smashingsecurity.com/
+ianbot: Are you a packet pusher? #podcast #sysadmin @packetpushers http://packetpushers.net/
+ianbot: File systems in RAM https://www.cyberciti.biz/faq/howto-create-linux-ram-disk-filesystem/
+ianbot: Building a billion user load balancer #SRE #sysadmin https://www.youtube.com/watch?v=bxhYNfFeVF4
+ianbot: @facebook Technical Article on MPS: https://code.facebook.com/posts/180455938822278/under-the-hood-mysql-pool-scanner-mps-/
+ianbot: Unsafe printers #cybersecurity https://www.tenable.com/blog/rooting-a-printer-from-security-bulletin-to-remote-code-execution
+ianbot: Ever heard of /dev/input/ or /proc/bus/input/devices?  http://www.linuxjournal.com/article/6396
+ianbot: Should I use SOAP for my APIs or REST? https://www.soapui.org/testing-dojo/world-of-api-testing/soap-vs--rest-challenges.html
+ianbot: Cookin up some #crypto https://www.feistyduck.com/books/openssl-cookbook/
+ianbot: ar, matie! http://www.thegeekstuff.com/2010/08/ar-command-examples/
+ianbot: Using the preprocessor for printing debug statements: https://stackoverflow.com/questions/1644868/c-define-macro-for-debug-printing
+ianbot: #hacking && #cybersecurity challenges https://www.root-me.org/en/Challenges/
+ianbot: @lisale01 posted this great resource on #slack, and I'm sharing it here: https://github.com/gradiuscypher/infosec_getting_started
+ianbot: Building virtual pen testing labs #cybersecurity https://www.youtube.com/watch?v=7t_5ikxpyGk&list=PL1rFvQRVWVVYLeYVfiJJbZ8mTAv8wrYl4
