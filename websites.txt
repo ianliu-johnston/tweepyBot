@@ -21,4 +21,3 @@ ianbot: ar, matie! http://www.thegeekstuff.com/2010/08/ar-command-examples/
 ianbot: Using the preprocessor for printing debug statements: https://stackoverflow.com/questions/1644868/c-define-macro-for-debug-printing
 ianbot: #hacking && #cybersecurity challenges https://www.root-me.org/en/Challenges/
 ianbot: @lisale01 posted this great resource on #slack, and I'm sharing it here: https://github.com/gradiuscypher/infosec_getting_started
-ianbot: Building virtual pen testing labs #cybersecurity https://www.youtube.com/watch?v=7t_5ikxpyGk&list=PL1rFvQRVWVVYLeYVfiJJbZ8mTAv8wrYl4
