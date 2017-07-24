@@ -2,7 +2,6 @@ ianbot: I CAN HAZ LOLCAT PYTHONZ? http://www.dalkescientific.com/writings/diary/
 ianbot: Example of a post-mortem from Google: https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html
 ianbot: Heap of #asm resources for learning! http://asm.sourceforge.net/resources.html
 ianbot: Difference between Intel and AT&T #asm syntax: http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm
-ianbot: You're dangerously bad @ #cryptography https://www.happybearsoftware.com/you-are-dangerously-bad-at-cryptography.html @happybearsoft
 ianbot: Solve #crypto challenges with https://cryptopals.com
 ianbot: Python, Pandas, and SQLite databases, Oh My! https://www.dataquest.io/blog/python-pandas-databases/
 ianbot: Quick Guide to GDB: https://beej.us/guide/bggdb/
