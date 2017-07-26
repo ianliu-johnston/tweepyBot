@@ -10,7 +10,6 @@ ianbot: Podcasts for #sysadmin @Practical_SA https://thepracticalsysadmin.com/po
 ianbot: Smashing Security! #podcast #cybersecurity @smashinsecurity http://www.smashingsecurity.com/
 ianbot: Are you a packet pusher? #podcast #sysadmin @packetpushers http://packetpushers.net/
 ianbot: File systems in RAM https://www.cyberciti.biz/faq/howto-create-linux-ram-disk-filesystem/
-ianbot: Building a billion user load balancer #SRE #sysadmin https://www.youtube.com/watch?v=bxhYNfFeVF4
 ianbot: @facebook Technical Article on MPS: https://code.facebook.com/posts/180455938822278/under-the-hood-mysql-pool-scanner-mps-/
 ianbot: Unsafe printers #cybersecurity https://www.tenable.com/blog/rooting-a-printer-from-security-bulletin-to-remote-code-execution
 ianbot: Ever heard of /dev/input/ or /proc/bus/input/devices?  http://www.linuxjournal.com/article/6396
