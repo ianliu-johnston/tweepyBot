@@ -41,3 +41,4 @@ foppery
 dishabille
 garrote
 animadversion
+opprobrium
