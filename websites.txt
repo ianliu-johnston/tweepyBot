@@ -7,7 +7,6 @@ ianbot: Python, Pandas, and SQLite databases, Oh My! https://www.dataquest.io/bl
 ianbot: Quick Guide to GDB: https://beej.us/guide/bggdb/
 ianbot: Did you know GDB has a Text User Interface? https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_19.html
 ianbot: Podcasts for #sysadmin @Practical_SA https://thepracticalsysadmin.com/podcasts-for-system-administrators/
-ianbot: Smashing Security! #podcast #cybersecurity @smashinsecurity http://www.smashingsecurity.com/
 ianbot: Are you a packet pusher? #podcast #sysadmin @packetpushers http://packetpushers.net/
 ianbot: File systems in RAM https://www.cyberciti.biz/faq/howto-create-linux-ram-disk-filesystem/
 ianbot: @facebook Technical Article on MPS: https://code.facebook.com/posts/180455938822278/under-the-hood-mysql-pool-scanner-mps-/
