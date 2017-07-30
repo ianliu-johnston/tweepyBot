@@ -3,7 +3,6 @@ ianbot: Example of a post-mortem from Google: https://developers.googleblog.com/
 ianbot: Heap of #asm resources for learning! http://asm.sourceforge.net/resources.html
 ianbot: Difference between Intel and AT&T #asm syntax: http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm
 ianbot: Solve #crypto challenges with https://cryptopals.com
-ianbot: Python, Pandas, and SQLite databases, Oh My! https://www.dataquest.io/blog/python-pandas-databases/
 ianbot: Quick Guide to GDB: https://beej.us/guide/bggdb/
 ianbot: Did you know GDB has a Text User Interface? https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_19.html
 ianbot: Podcasts for #sysadmin @Practical_SA https://thepracticalsysadmin.com/podcasts-for-system-administrators/
