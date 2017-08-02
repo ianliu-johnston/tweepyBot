@@ -43,3 +43,4 @@ garrote
 animadversion
 opprobrium
 divagation
+alacrity
