@@ -13,5 +13,4 @@ ianbot: Unsafe printers #cybersecurity https://www.tenable.com/blog/rooting-a-pr
 ianbot: Ever heard of /dev/input/ or /proc/bus/input/devices?  http://www.linuxjournal.com/article/6396
 ianbot: Should I use SOAP for my APIs or REST? https://www.soapui.org/testing-dojo/world-of-api-testing/soap-vs--rest-challenges.html
 ianbot: Cookin up some #crypto https://www.feistyduck.com/books/openssl-cookbook/
-ianbot: Using the preprocessor for printing debug statements: https://stackoverflow.com/questions/1644868/c-define-macro-for-debug-printing
 ianbot: #hacking && #cybersecurity challenges https://www.root-me.org/en/Challenges/
