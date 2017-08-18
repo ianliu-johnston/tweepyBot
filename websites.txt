@@ -4,7 +4,6 @@ ianbot: Difference between Intel and AT&T #asm syntax: http://www.imada.sdu.dk/C
 ianbot: Solve #crypto challenges with https://cryptopals.com
 ianbot: Did you know GDB has a Text User Interface? https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_19.html
 ianbot: File systems in RAM https://www.cyberciti.biz/faq/howto-create-linux-ram-disk-filesystem/
-ianbot: @facebook Technical Article on MPS: https://code.facebook.com/posts/180455938822278/under-the-hood-mysql-pool-scanner-mps-/
 ianbot: Unsafe printers #cybersecurity https://www.tenable.com/blog/rooting-a-printer-from-security-bulletin-to-remote-code-execution
 ianbot: Should I use SOAP for my APIs or REST? https://www.soapui.org/testing-dojo/world-of-api-testing/soap-vs--rest-challenges.html
 ianbot: #hacking && #cybersecurity challenges https://www.root-me.org/en/Challenges/
