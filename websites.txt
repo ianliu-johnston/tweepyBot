@@ -1,7 +1,6 @@
 ianbot: I CAN HAZ LOLCAT PYTHONZ? http://www.dalkescientific.com/writings/diary/archive/2007/06/01/lolpython.html
 ianbot: Example of a post-mortem from Google: https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html
 ianbot: Difference between Intel and AT&T #asm syntax: http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm
-ianbot: Solve #crypto challenges with https://cryptopals.com
 ianbot: Did you know GDB has a Text User Interface? https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_19.html
 ianbot: File systems in RAM https://www.cyberciti.biz/faq/howto-create-linux-ram-disk-filesystem/
 ianbot: Should I use SOAP for my APIs or REST? https://www.soapui.org/testing-dojo/world-of-api-testing/soap-vs--rest-challenges.html
