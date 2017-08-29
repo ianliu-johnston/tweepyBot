@@ -47,3 +47,4 @@ alacrity
 filibuster
 hackney
 imbroglio
+heptarchy
